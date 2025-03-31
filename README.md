@@ -26,7 +26,7 @@
     <a href="https://stackoverflow.com/users/naufal-zul-helmi-maulana" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
     </a>
-    <a href="https://instagram.com/n_z_h_m" target="_blank">
+    <a href="https://instagram.com/nfl.zul" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </p>

@@ -2,7 +2,7 @@
     <img src="https://github.com/NAUFALZHM/Customize-Github/main/blob/coding.gif" width="600"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Naufal Zul</h1>
+<h1 align="center">Hii 👋, I'm Naufal Zul</h1>
 <div align="center">
   <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>

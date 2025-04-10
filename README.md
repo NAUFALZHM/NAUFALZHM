@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/NAUFALZHM/Customize-Github/main/blob/coding.gif" width="600"/>
+    <img src="https://github.com/NAUFALZHM/NAUFALZHM/raw/main/coding.gif" width="600"/>
 </div>
 
 <h1 align="center">Hii 👋, I'm Naufal Zul</h1>

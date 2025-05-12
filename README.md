@@ -29,6 +29,9 @@
     <a href="https://instagram.com/nfl.zul" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    <a href="https://gitlab.com/NAUFALZHM" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    </a>
 </p>
 
 <br>
@@ -86,6 +89,20 @@
 <div align="center">
   <img src="https://github.com/NAUFALZHM/NAUFALZHM/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAUFALZHM/NAUFALZHM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAUFALZHM/NAUFALZHM/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NAUFALZHM/NAUFALZHM/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/NAUFALZHM/count.svg?"  />
+</div>
+
+###
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
